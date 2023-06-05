@@ -1,0 +1,7 @@
+Relatório dos 4 Frameworks vistos em aula nas apresentações.
+Dentro os 4 frameworks, todos são considerávelmente novos, alguns com sua comunidade um pouco maior, como a do React por exemplo.
+Todos citam que é de simples uso os frameworks mostrados, mas nem todos citam como é sua linha de aprendizagem, e pelo pouco que mostraram, O Svelte e o Next, em minha opnião, aparentam ser mais simples.
+Digo isso em relação a organização de arquivos e aplicação de forma geral.
+Creio que o Vue talvez seja uma linguagem muito bem aproveitada, pelo fato de conter os "views", coisa que as outras não demonstraram, e que a princípio, pode ser muito útil.
+Conhecendo um pouco mais do Svelte (partindo da minha pessoa), digo que será facilmente compreendido pela turma, por mais que sua curva de aprendizagem seja citada como "não muito boa", tenho minha visão de que será um dos mais faceis, pois não é completamente complexo, apenas "diferente" de acompanhar. Além disso ele tem poucas chances de ser descontinuado e sua comunidade está sempre presente, inclusive, exite o discord do Svelte caso o aluno queira tirar alguma duvida pertinente.
+Os grupos não demonstraram tão afundo seus frameworks (minha opnião), por isso, como eu ja conheci o svelte, meu voto de uso vai para ele. 
